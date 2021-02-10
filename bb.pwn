@@ -17,7 +17,7 @@ BB_OnPlayerModelSelection(playerid, extraid, modelid, response)
 		return 1;
 	}
     return 1;
-} //î
+} //Ã®
 
 BB_OnPlayerEditDynamicObject(playerid, objectid, response, Float:x, Float:y, Float:z, Float:rx, Float:ry, Float:rz)
 {
